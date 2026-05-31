@@ -1,0 +1,31 @@
+{
+  "profile": {
+    "name": "唐朝禹",
+    "role": "全栈开发者 · 独立创作者",
+    "about": "热爱技术与写作，专注于 Web 开发、系统设计和开源工具。在这里分享我的思考、实验和所学。"
+  },
+  "topics": [
+    { "name": "Web开发", "bg": "bg-amber-50", "color": "text-amber-700" },
+    { "name": "React", "bg": "bg-cyan-50", "color": "text-cyan-700" },
+    { "name": "Node.js", "bg": "bg-green-50", "color": "text-green-700" },
+    { "name": "TypeScript", "bg": "bg-blue-50", "color": "text-blue-700" },
+    { "name": "系统设计", "bg": "bg-purple-50", "color": "text-purple-700" },
+    { "name": "开源", "bg": "bg-orange-50", "color": "text-orange-700" }
+  ],
+  "stats": {
+    "articles": "42",
+    "views": "10.2k",
+    "years": "3"
+  },
+  "socials": [
+    { "name": "github" },
+    { "name": "mail" },
+    { "name": "rss" }
+  ],
+  "categories": [
+    { "key": "all", "short": "全部", "full": "全部" },
+    { "key": "frontend", "short": "前端", "full": "前端" },
+    { "key": "backend", "short": "后端", "full": "后端" },
+    { "key": "essay", "short": "随笔", "full": "随笔" }
+  ]
+}
